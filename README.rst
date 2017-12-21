@@ -6,13 +6,13 @@ Testing graphviz
 Create .dot file
 #################
 
-::
+.. code-block::
   > file.dot
 
 Edit .dot file
 ###############
 
-::
+.. code-block::
   digraph test {
   A->B
   B->C
@@ -21,7 +21,7 @@ Edit .dot file
 Create graph from .dot file
 ##############################
 
-::
+.. code-block::
   dot -Tpng file.dot > file.png		
 -T(extension of graph file)
 
