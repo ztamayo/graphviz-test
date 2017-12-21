@@ -25,4 +25,4 @@ Create graph from .dot file
 Open .png file
 ################
 
-.. image:: ../graphs/file.png
+.. image:: graphs/file.png
