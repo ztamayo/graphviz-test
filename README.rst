@@ -13,9 +13,9 @@ Edit .dot file
 
 ``digraph test {``
 
-``A->B``
+  ``A->B``
 
-``B->C``
+  ``B->C``
 
 ``}``
 
