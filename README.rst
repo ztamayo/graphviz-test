@@ -12,8 +12,11 @@ Edit .dot file
 ###############
 
 ``digraph test {``
+
 ``A->B``
+
 ``B->C``
+
 ``}``
 
 Create graph from .dot file
@@ -21,6 +24,7 @@ Create graph from .dot file
 
 
 ``dot -Tpng file.dot > file.png``
+
 -T(extension of graph file)
 
 Open .png file
